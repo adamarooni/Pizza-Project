@@ -1,0 +1,15 @@
+#orderbuttons {
+    width:150px;
+    display: block;
+    float: left;
+}
+
+#receipt {
+    width: 300px;
+    display: block;
+    float: left;
+ }
+
+#cancel {
+    margin-top: 10px;
+}
